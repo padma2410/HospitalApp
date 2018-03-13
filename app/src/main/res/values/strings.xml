@@ -1,0 +1,90 @@
+<resources>
+
+    <string name="app_name">Hospital</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_text">
+        A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a heart attack. A district hospital typically is the major health care facility in its region, with large numbers of beds for intensive care and additional beds for patients who need long-term care. Specialised hospitals include trauma centres, rehabilitation hospitals, children\'s hospitals, seniors\' (geriatric) hospitals, and hospitals for dealing with specific medical needs such as psychiatric treatment (see psychiatric hospital) and certain disease categories. Specialised hospitals can help reduce health care costs compared to general hospitals.
+            A teaching hospital combines assistance to people with teaching to medical students and nurses.
+            The medical facility smaller than a hospital is generally called a clinic.
+        Hospitals have a range of departments (e.g. surgery and urgent care) and specialist units such as cardiology.
+        Some hospitals have outpatient departments and some have chronic treatment units.
+        Common support units include a pharmacy, pathology, and radiology.
+
+            Hospitals are usually funded by the public sector, health organisations (for profit or nonprofit), health insurance companies, or charities, including direct charitable donations. Historically, hospitals were often founded and funded by religious orders.
+    </string>
+    <string name="hlth">
+        under the general medicine department highly experinced team of doctors,dietician and counselleors provide comprehensive diabetic care with the help of advance diagonostic tools and treatement device.
+        There often works best, says Joyce Meng, MD, assistant professor at the Pat and Jim Calhoun Cardiology Center at UConn Health.
+        If you like to follow a strict diet plan, go for it. If not, it is OK. Find what works for you.
+    </string>
+    <string name="blood_bank">
+    our blood bank and tranfustio medicine is playing a vital role in providing quick and excellent services for surgical requirments.
+    strihgint prcdures are used for screening out intection diease in the blood donor population the docters are support to the blood bank. we also provide rare blood group for every patients.
+        we can also provide various type of blood bank facilities to our hospital we can assume or suuport to beeter facilities to our patients
+    </string>
+
+
+    <string name="Diabetic_text">
+        Diabetes symptoms vary depending on how much your blood sugar is elevated.
+        Some people, especially those with prediabetes or type 2 diabetes, may not experience symptoms initially.
+        In type 1 diabetes, symptoms tend to come on quickly and be more severe.
+
+Some of the signs and symptoms of type 1 and type 2 diabetes are:
+
+Increased thirst
+Frequent urination
+Extreme hunger
+Unexplained weight loss
+Presence of ketones in the urine ketones are a byproduct of the breakdown of muscle and fat that happens when there not enough available insulin
+Fatigue
+Irritability
+Blurred vision
+Slow-healing sores
+Frequent infections, such as gums or skin infections and vaginal infections
+    </string>
+    <string name="labrot">
+        health care hospital has depended quick and accurate laboratory services with latest equipments including.laboratory services with latest equipments including.
+        randoximola fully automed bio chemistry.the lab is certified by RIQAS CMC vellore for interntional quality
+         laboratory services with latest equipments including.laboratory services with latest equipments including.
+        randoximola fully automed bio chemistry.the lab is certified by RIQAS CMC vellore for interntional quality
+         laboratory services with latest equipments including.laboratory services with latest equipments including.
+        randoximola fully automed bio chemistry.the lab is certified by RIQAS CMC vellore for interntional quality
+
+    </string>
+    <string name="opr">
+        8 centrally air conditioned operation theateres with filtered
+        fresh air supply with laminar flow.
+        modern anaesthesia system,invesive and non invasive.
+        monitoring device,centrallized pipe line for q vaccum,oxygen medical air and nitrous oxide climatized well panned
+         modern anaesthesia system,invesive and non invasive.
+        monitoring device,centrallized pipe line for q vaccum,oxygen medical air and nitrous oxide climatized well panned
+         modern anaesthesia system,invesive and non invasive.
+        monitoring device,centrallized pipe line for q vaccum,oxygen medical air and nitrous oxide climatized well panned
+    </string>
+    <string name="radio">
+        CT SCAN FEATURES
+            *CT Examination made easier
+            *advanced 3D post processing
+            *international standard protocolo
+            *short Examiniation times
+            *Excellent image quality
+            *view low radition exposure
+            CT SCAN FEATURES
+            *CT Examination made easier
+            *advanced 3D post processing
+            *international standard protocolo
+            *short Examiniation times
+            *Excellent image quality
+            *view low radition exposure
+             CT SCAN FEATURES
+            *CT Examination made easier
+            *advanced 3D post processing
+            *international standard protocolo
+            *short Examiniation times
+            *Excellent image quality
+            *view low radition exposure
+    </string>
+</resources>
